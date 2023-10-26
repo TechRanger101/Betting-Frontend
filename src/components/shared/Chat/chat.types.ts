@@ -1,0 +1,12 @@
+export type GameIconList =
+  | 'dice'
+  | 'spin'
+  | 'bombs'
+  | 'slots'
+  | 'idea'
+  | 'brain'
+  | 'layers'
+  | 'wand'
+  | 'pantone'
+  | 'prototype'
+  | 'vision'
